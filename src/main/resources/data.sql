@@ -1,0 +1,2 @@
+insert into student (ID,ROLLNO,CLASSNAME,NAME,MARKS1,MARKS2,MARKS3,PERCENTAGE,RESULT)
+values(10001,30,'A','Manish',50,50,50,50,'pass');
